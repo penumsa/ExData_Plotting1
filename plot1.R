@@ -4,7 +4,6 @@
 ## Get data file
 ## Load into data frame
 ## Subset to dates - 2007-02-01 and 2007-02-02
-## Plot Frequency ~ Global active power (Kilowatts)
 
 ## Step 1 - check if data folder already exists to download file
 if (!file.exists("data")) {
